@@ -1,0 +1,16 @@
+INFO 21:35:09:829 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 79.0.3945.36 (since Google Chrome 79 is installed in your machine)
+INFO 21:35:09:845 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/oleksandernibyt/.m2/repository/webdriver/chromedriver/mac64/79.0.3945.36/chromedriver
+INFO 21:35:35:628 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 79.0.3945.36 (since Google Chrome 79 is installed in your machine)
+INFO 21:35:35:651 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/oleksandernibyt/.m2/repository/webdriver/chromedriver/mac64/79.0.3945.36/chromedriver
+INFO 11:58:12:641 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 79.0.3945.36 (since Google Chrome 79 is installed in your machine)
+INFO 11:58:12:662 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/oleksandernibyt/.m2/repository/webdriver/chromedriver/mac64/79.0.3945.36/chromedriver
+INFO 11:58:38:409 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 79.0.3945.36 (since Google Chrome 79 is installed in your machine)
+INFO 11:58:38:428 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/oleksandernibyt/.m2/repository/webdriver/chromedriver/mac64/79.0.3945.36/chromedriver
+INFO 11:59:24:827 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 79.0.3945.36 (since Google Chrome 79 is installed in your machine)
+INFO 11:59:24:841 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/oleksandernibyt/.m2/repository/webdriver/chromedriver/mac64/79.0.3945.36/chromedriver
+INFO 13:19:00:855 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 79.0.3945.36 (since Google Chrome 79 is installed in your machine)
+INFO 13:19:00:876 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/oleksandernibyt/.m2/repository/webdriver/chromedriver/mac64/79.0.3945.36/chromedriver
+INFO 14:24:51:191 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 79.0.3945.36 (since Google Chrome 79 is installed in your machine)
+INFO 14:24:51:208 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/oleksandernibyt/.m2/repository/webdriver/chromedriver/mac64/79.0.3945.36/chromedriver
+INFO 14:25:02:224 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 79.0.3945.36 (since Google Chrome 79 is installed in your machine)
+INFO 14:25:02:227 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/oleksandernibyt/.m2/repository/webdriver/chromedriver/mac64/79.0.3945.36/chromedriver
